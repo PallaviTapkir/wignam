@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_2410" data-name="Group 2410" transform="translate(-753 -690)">
+    <g id="Rectangle_706" data-name="Rectangle 706" transform="translate(753 690)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="filter" d="M14.022,0H1.1A.607.607,0,0,0,.563.33.615.615,0,0,0,.611.97L5.344,7.637l0,.007a1.352,1.352,0,0,1,.265.8v5.435a.6.6,0,0,0,.6.608.622.622,0,0,0,.238-.048l2.659-1.014a.576.576,0,0,0,.4-.568V8.446a1.352,1.352,0,0,1,.265-.8l0-.007L14.515.97a.615.615,0,0,0,.048-.64A.607.607,0,0,0,14.022,0ZM9.185,7.208a2.094,2.094,0,0,0-.408,1.238V12.77l-2.427.925V8.446a2.093,2.093,0,0,0-.408-1.238L1.347.735H13.779Zm0,0" transform="translate(757.437 694.756)"/>
+    <path id="Path_2559" data-name="Path 2559" d="M-.244,0H4.109a.481.481,0,0,1,.459.5.481.481,0,0,1-.459.5H.214A.481.481,0,0,1-.244.5Z" transform="translate(760 697)"/>
+    <circle id="Ellipse_350" data-name="Ellipse 350" cx="0.5" cy="0.5" r="0.5" transform="translate(765 697)"/>
+  </g>
+</svg>
